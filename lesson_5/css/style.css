@@ -8,12 +8,6 @@ body {
 	color: #6C757D;
 	font-weight: 300;
 }
-main {
-	max-width: 1270px;
-	padding-left: 15px;
-	padding-right: 15px;
-	margin: 0 auto;
-}
 .picture {
 	max-width: 1240px;
 	margin: 0 auto 80px;
